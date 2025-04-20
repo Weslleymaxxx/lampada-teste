@@ -1,1 +1,1 @@
-# lampada-teste
+Estudo JavaScript praticando lógica.
